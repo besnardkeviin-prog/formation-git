@@ -1,1 +1,2 @@
 Ceci est la version 1
+Ceci est la version 2 (modifiée par le collègue)
